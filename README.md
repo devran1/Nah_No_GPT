@@ -2,6 +2,9 @@ This code is influenced by Andrej Karpathy's lecture videos and the following co
 
 A numpy implementation of NanoGPT without backprop so far. I will add the backprop in the future.
 
+
+<a href="url"><img src="output.png" align="left" height="500" ></a>
+
 #### ORIGINAL CODE
 https://github.com/karpathy/ng-video-lecture
 
