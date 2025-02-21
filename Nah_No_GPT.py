@@ -1,10 +1,3 @@
-#ORIGINAL CODE
-#https://github.com/karpathy/ng-video-lecture
-
-#CLEAN VERSION
-#https://github.com/karpathy/nanoGPT
-
-
 import numpy as np
 
 text = """Once upon a time in a small, misty village nestled between towering mountains, there lived a young girl named Elara. She had always been fascinated by the stories of ancient legends that her grandmother told her by the flickering firelight. The most intriguing of these tales was about the Whispering Woods, a forest said to be alive with magic and secrets.
