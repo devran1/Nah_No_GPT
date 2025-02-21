@@ -11,3 +11,6 @@ https://github.com/karpathy/ng-video-lecture
 
 #### EDITED VERSION
 https://github.com/karpathy/nanoGPT
+
+#### LECTURE VIDEO
+https://m.youtube.com/watch?v=kCc8FmEb1nY
