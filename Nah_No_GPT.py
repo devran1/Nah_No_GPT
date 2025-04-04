@@ -167,6 +167,8 @@ class Head():
     v=np.dot(x, self.value)
 
     wei=np.tril((q @ k.transpose(0,2,1)))/np.sqrt(head_size) #att0
+    #wei without head_size
+    #wei=np.tril((q @ k.transpose(0,2,1)))  * k.shape[-1]**-0.5
     #print("wei \n",wei[0],wei.shape)
     wei=np.where(wei == 0, float("-inf"),wei) #cannot talk to future tokens
     #print("wei \n",wei[0],wei.shape)
